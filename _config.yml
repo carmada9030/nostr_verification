@@ -1,1 +1,1 @@
-{% include_relative .well-known\nostr.json %}
+include: [".well-known"]
