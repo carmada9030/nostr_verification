@@ -1,1 +1,1 @@
-{% include .well-known %}
+{% include_relative .well-known/nostr.json %}
